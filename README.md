@@ -8,7 +8,7 @@ To use this project, please follow these steps:
 
 1. Clone the repository to your local machine:
 
-2. Install the necessary dependencies using `npm install` :
+2. Install the necessary dependencies using `npm install` and `npm run build`:
 
 3. Once the installation is complete, you can access the `dist` file and the node_bundles.
 
