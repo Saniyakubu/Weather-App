@@ -10,7 +10,7 @@ To use this project, please follow these steps:
 
 2. Install the necessary dependencies using `npm install` :
 
-3. Once the installation is complete, you can access the dist file and the node_bundles.
+3. Once the installation is complete, you can access the `dist` file and the node_bundles.
 
 ## Usage
 
